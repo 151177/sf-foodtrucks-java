@@ -1,0 +1,23 @@
+#content-container {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#header-container {
+	
+}
+
+#header {
+	font-size:32px;
+	margin-bottom: 64px;
+}
+
+#data-container {
+	
+}
+
+#data-content {
+	font-size:18px;
+	font-weight: 600;
+}
